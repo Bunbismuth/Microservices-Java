@@ -1,5 +1,6 @@
 # Micro-serviços em Java
 Um projeto criado para entendimento de microserviços em java, sendo ele um composto por 2 microserviços. É um sistema de inscrições em eventos, na qual teremos uma lista de eventos disponíveis e a quantidade máxima de participantes. Ao se inscrever em um evento, o participante receberá um e-mail de confirmação de inscrição. <br/> 
+
 **Observação:** Todo o conteúdo foi retirado da [live da Fernanda Kipper](https://youtu.be/yACzWg9gUGM)
 
 ## Micro-serviço de Evento
